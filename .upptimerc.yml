@@ -1,31 +1,41 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: cdymlr # Your GitHub organization or username, where this repository lives
+repo: uptime # The name of this repository
+
+i18n:
+  footer: 2021 Solid Block Studios
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Forums
+    url: https://titsrp.com
+  - name: TitsRP Server
+    icon: https://www.titsrp.com/images/Gmod-small.ico
+    url: $TRP_SERVER
+  - name: Rust Weekly
+    icon: https://www.titsrp.com/images/rust_94773.ico
+    url: $WEEKLY_SERVER
+  - name: Rust Bi-Weekly
+    icon: https://www.titsrp.com/images/rust_94773.ico
+    url: $BIWEEKLY_SERVER
+  - name: API Server
+    url: $API_SERVER
+    icon: https://www.titsrp.com/images/api_icon.svg
+  - name: Boombox
+    url: $MEDIA
+    icon: https://www.titsrp.com/images/audio.svg
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  cname: status.titsrp.com
+  logoUrl: https://forums.titsrp.com/uploads/monthly_2021_06/tits-logo-small.png.560dc95feed57a98ea80c06f01fd141a.png.6c5dc17eeb3b7ec22aad8c386b942694.png
+  name: TitsRP / Tits.GG Server Status
+  themeUrl: https://titsrp.com/images/tits.css
+  introMessage: Daily server resets and scheduled maintenance will not show servers as offline. If you cannot connect and there are no maintenance windows open, check Discord!
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Forums
+      href: https://forums.titsrp.com
+    - title: Discord
+      href: https://discord.gg/yceff7Bjh9
+      
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
