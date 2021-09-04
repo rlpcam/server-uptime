@@ -1,6 +1,6 @@
 ---
 name: Maintenance
-about: Create a report of scheduled maintenace
+about: Create a report of scheduled maintenance
 title: ''
 labels: 'maintenance'
 
