@@ -28,7 +28,8 @@ status-website:
   cname: status.titsrp.com
   logoUrl: https://forums.titsrp.com/uploads/monthly_2021_06/tits-logo-small.png.560dc95feed57a98ea80c06f01fd141a.png.6c5dc17eeb3b7ec22aad8c386b942694.png
   name: Server Status
-  themeUrl: https://titsrp.com/images/tits.css
+  #themeUrl: https://titsrp.com/images/tits.css
+  theme: night
   favicon: https://titsrp.com/images/favicon.ico
   introTitle: "**Is TitsRP down?** All times are in EDT"
   introMessage: If there is no maintenance window open and you still cannot connect, check Discord!
