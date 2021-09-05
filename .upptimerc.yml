@@ -23,9 +23,7 @@ sites:
   - name: Boombox
     url: $MEDIA
     icon: https://www.titsrp.com/images/audio.svg
-  - name: Offline Site
-    url: https://asdasdasdasdasd.com
-    icon: https://www.titsrp.com/images/audio.svg
+ 
 
 status-website:
   cname: status.titsrp.com
