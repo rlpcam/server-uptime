@@ -7,7 +7,9 @@ i18n:
 
 sites:
   - name: Forums
+    check: "tcp-ping"
     url: https://titsrp.com
+    port: 443
   - name: TitsRP Server
     icon: https://www.titsrp.com/images/Gmod-small.ico
     url: $TRP_SERVER
