@@ -31,7 +31,7 @@ status-website:
   themeUrl: https://titsrp.com/images/tits.css
   favicon: https://titsrp.com/images/favicon.ico
   introTitle: "**Is TitsRP down?**"
-  introMessage: Daily server resets and scheduled maintenance will not show servers as offline. If you cannot connect and there are no maintenance windows open, check Discord!
+  introMessage: If you cannot connect to the server and there are no maintenance windows open, contact us on Discord!
   navbar:
     - title: Forums
       href: https://forums.titsrp.com
