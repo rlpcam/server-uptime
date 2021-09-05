@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/titsrp.com",
     "slug": "forums",
     "status": "up",
-    "uptime": "95.56%",
-    "uptimeDay": "95.56%",
-    "uptimeWeek": "95.56%",
-    "uptimeMonth": "95.56%",
-    "uptimeYear": "95.56%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 590,
     "timeDay": 590,
     "timeWeek": 590,
     "timeMonth": 590,
     "timeYear": 590,
-    "dailyMinutesDown": {
-      "2021-09-05": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "TitsRP Server",
