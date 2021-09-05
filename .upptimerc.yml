@@ -7,7 +7,7 @@ i18n:
 
 sites:
   - name: Forums
-    url: https://titsrp.com
+    url: https://titsrp_offlinetest.com
   - name: TitsRP Server
     icon: https://www.titsrp.com/images/Gmod-small.ico
     url: $TRP_SERVER
