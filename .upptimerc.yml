@@ -7,34 +7,22 @@ i18n:
 
 sites:
   - name: Community Forums
-    check: "tcp-ping"
     url: https://titsrp.com
-    port: 443
   - name: TitsRP Server
     icon: https://www.titsrp.com/images/Gmod-small.ico
-    check: "tcp-ping"
     url: $TRP_SERVER
-    port: 443
   - name: Rust Weekly
-    check: "tcp-ping"
     icon: https://www.titsrp.com/images/rust_94773.ico
     url: $WEEKLY_SERVER
-    port: 443
   - name: Rust Bi-Weekly
-    check: "tcp-ping"
     icon: https://www.titsrp.com/images/rust_94773.ico
     url: $BIWEEKLY_SERVER
-    port: 443
   - name: API Server
-    check: "tcp-ping"
     url: $API_SERVER
     icon: https://www.titsrp.com/images/api_icon.svg
-    port: 443
   - name: Boombox
-    check: "tcp-ping"
     url: $MEDIA
     icon: https://www.titsrp.com/images/audio.svg
-    port: 443
 
 status-website:
   cname: status.titsrp.com
