@@ -113,18 +113,16 @@
     "icon": "https://www.titsrp.com/images/audio.svg",
     "slug": "offline-site",
     "status": "up",
-    "uptime": "5.37%",
-    "uptimeDay": "5.37%",
-    "uptimeWeek": "5.37%",
-    "uptimeMonth": "5.37%",
-    "uptimeYear": "5.37%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 122,
     "timeDay": 122,
     "timeWeek": 122,
     "timeMonth": 122,
     "timeYear": 122,
-    "dailyMinutesDown": {
-      "2021-09-05": 1
-    }
+    "dailyMinutesDown": {}
   }
 ]
