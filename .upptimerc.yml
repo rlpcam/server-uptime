@@ -30,7 +30,7 @@ status-website:
   name: TitsRP/Tits.GG Server Status
   themeUrl: https://titsrp.com/images/tits.css
   favicon: https://titsrp.com/images/favicon.ico
-  introTitle: "**Is TitsRP/Tits.GG down?** Check server status and uptime. 
+  introTitle: "**Is TitsRP/Tits.GG down?** Check server status and uptime."
   introMessage: Daily server resets and scheduled maintenance will not show servers as offline. If you cannot connect and there are no maintenance windows open, check Discord!
   navbar:
     - title: Forums
