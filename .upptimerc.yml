@@ -24,7 +24,7 @@ sites:
     url: $MEDIA
     icon: https://www.titsrp.com/images/audio.svg
   - name: Offline Site
-    url: https://titsrp.com
+    url: https://asdfasdfasdfasdf.com
     icon: https://www.titsrp.com/images/audio.svg
 
 status-website:
