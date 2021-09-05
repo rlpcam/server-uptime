@@ -29,6 +29,7 @@ status-website:
   logoUrl: https://forums.titsrp.com/uploads/monthly_2021_06/tits-logo-small.png.560dc95feed57a98ea80c06f01fd141a.png.6c5dc17eeb3b7ec22aad8c386b942694.png
   name: TitsRP / Tits.GG Server Status
   themeUrl: https://titsrp.com/images/tits.css
+  favicon: https://titsrp.com/images/favicon.ico
   introMessage: Daily server resets and scheduled maintenance will not show servers as offline. If you cannot connect and there are no maintenance windows open, check Discord!
   navbar:
     - title: Forums
