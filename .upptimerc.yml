@@ -30,7 +30,7 @@ status-website:
   name: Server Status
   themeUrl: https://titsrp.com/images/tits.css
   favicon: https://titsrp.com/images/favicon.ico
-  introTitle: "**Is TitsRP / Tits.GG down?** All times are in Eastern Daylight Time (EDT)"
+  introTitle: "**Is TitsRP / Tits.GG down?** All times are in EDT"
   introMessage: If there is no maintenance window open and you still cannot connect, check Discord!
   navbar:
     - title: Forums
