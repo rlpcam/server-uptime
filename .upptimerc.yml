@@ -30,7 +30,7 @@ status-website:
   name: Server Status
   themeUrl: https://titsrp.com/images/tits.css
   favicon: https://titsrp.com/images/favicon.ico
-  introTitle: "**Is TitsRP down?**"
+  introTitle: "**Is TitsRP / Tits.GG down?**"
   introMessage: If you cannot connect to the server and there are no maintenance windows open, contact us on Discord!
   navbar:
     - title: Forums
