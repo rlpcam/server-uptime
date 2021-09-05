@@ -2,7 +2,7 @@
 name: Maintenance
 about: Create a report of scheduled maintenance
 title: ''
-labels: 'maintenance'
+
 
 ---
 
