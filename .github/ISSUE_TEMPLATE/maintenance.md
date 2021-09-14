@@ -7,7 +7,7 @@ title: ''
 ---
 
 <!--
-start: 2021-02-24T13:00:00.220Z
-end: 2021-02-24T14:00:00.220Z
-expectedDown: Forums, TitsRP Server
+start: 2021-11-09T17:00:00-0500
+end: 2021-11-10T05:00:00-0500
+expectedDown: Rust Weekly, Rust Bi-Weekly
 -->
