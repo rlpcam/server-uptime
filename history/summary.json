@@ -40,19 +40,19 @@
     "url": "$WEEKLY_SERVER",
     "icon": "https://www.titsrp.com/images/rust_94773.ico",
     "slug": "rust-weekly",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "95.87%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 286,
-    "timeDay": 311,
-    "timeWeek": 297,
+    "timeDay": 292,
+    "timeWeek": 294,
     "timeMonth": 286,
     "timeYear": 286,
     "dailyMinutesDown": {
-      "2021-09-27": 1
+      "2021-09-27": 60
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "$BIWEEKLY_SERVER",
     "icon": "https://www.titsrp.com/images/rust_94773.ico",
     "slug": "rust-bi-weekly",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "95.90%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 113,
-    "timeDay": 123,
-    "timeWeek": 112,
+    "timeDay": 111,
+    "timeWeek": 111,
     "timeMonth": 113,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2021-09-27": 0
+      "2021-09-27": 59
     }
   },
   {
