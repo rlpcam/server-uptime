@@ -4,7 +4,7 @@
     "url": "https://titsrp.com",
     "icon": "https://favicons.githubusercontent.com/titsrp.com",
     "slug": "forums",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -13,9 +13,11 @@
     "time": 634,
     "timeDay": 1116,
     "timeWeek": 781,
-    "timeMonth": 634,
+    "timeMonth": 692,
     "timeYear": 634,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-05": 0
+    }
   },
   {
     "name": "TitsRP Server",
@@ -31,7 +33,7 @@
     "time": 349,
     "timeDay": 445,
     "timeWeek": 378,
-    "timeMonth": 351,
+    "timeMonth": 359,
     "timeYear": 349,
     "dailyMinutesDown": {}
   },
@@ -49,7 +51,7 @@
     "time": 287,
     "timeDay": 314,
     "timeWeek": 293,
-    "timeMonth": 287,
+    "timeMonth": 288,
     "timeYear": 287,
     "dailyMinutesDown": {
       "2021-09-27": 60
@@ -61,15 +63,15 @@
     "icon": "https://www.titsrp.com/images/rust_94773.ico",
     "slug": "rust-bi-weekly",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
     "time": 113,
     "timeDay": 122,
     "timeWeek": 113,
-    "timeMonth": 112,
+    "timeMonth": 114,
     "timeYear": 113,
     "dailyMinutesDown": {
       "2021-09-27": 59
@@ -89,7 +91,7 @@
     "time": 162,
     "timeDay": 263,
     "timeWeek": 140,
-    "timeMonth": 152,
+    "timeMonth": 161,
     "timeYear": 162,
     "dailyMinutesDown": {}
   },
@@ -107,7 +109,7 @@
     "time": 240,
     "timeDay": 176,
     "timeWeek": 229,
-    "timeMonth": 240,
+    "timeMonth": 234,
     "timeYear": 240,
     "dailyMinutesDown": {}
   }
