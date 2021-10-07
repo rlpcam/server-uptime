@@ -6,15 +6,15 @@
     "slug": "forums",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "98.77%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 637,
-    "timeDay": 742,
-    "timeWeek": 766,
-    "timeMonth": 703,
-    "timeYear": 637,
+    "time": 631,
+    "timeDay": 172,
+    "timeWeek": 733,
+    "timeMonth": 687,
+    "timeYear": 631,
     "dailyMinutesDown": {
       "2021-10-05": 18
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 351,
-    "timeDay": 443,
-    "timeWeek": 388,
-    "timeMonth": 352,
-    "timeYear": 351,
+    "time": 350,
+    "timeDay": 299,
+    "timeWeek": 380,
+    "timeMonth": 351,
+    "timeYear": 350,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +49,9 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.87%",
     "time": 286,
-    "timeDay": 277,
-    "timeWeek": 289,
-    "timeMonth": 286,
+    "timeDay": 293,
+    "timeWeek": 290,
+    "timeMonth": 288,
     "timeYear": 286,
     "dailyMinutesDown": {
       "2021-09-27": 60
@@ -69,8 +69,8 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.87%",
     "time": 113,
-    "timeDay": 110,
-    "timeWeek": 111,
+    "timeDay": 106,
+    "timeWeek": 112,
     "timeMonth": 113,
     "timeYear": 113,
     "dailyMinutesDown": {
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 164,
-    "timeDay": 334,
+    "time": 162,
+    "timeDay": 29,
     "timeWeek": 176,
-    "timeMonth": 166,
-    "timeYear": 164,
+    "timeMonth": 159,
+    "timeYear": 162,
     "dailyMinutesDown": {}
   },
   {
@@ -107,9 +107,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 239,
-    "timeDay": 180,
-    "timeWeek": 236,
-    "timeMonth": 240,
+    "timeDay": 272,
+    "timeWeek": 227,
+    "timeMonth": 246,
     "timeYear": 239,
     "dailyMinutesDown": {}
   }
