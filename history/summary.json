@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 659,
-    "timeDay": 849,
-    "timeWeek": 700,
-    "timeMonth": 742,
-    "timeYear": 659,
+    "time": 655,
+    "timeDay": 207,
+    "timeWeek": 699,
+    "timeMonth": 727,
+    "timeYear": 655,
     "dailyMinutesDown": {
       "2021-10-05": 18
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 371,
-    "timeDay": 410,
-    "timeWeek": 512,
-    "timeMonth": 430,
-    "timeYear": 371,
+    "time": 370,
+    "timeDay": 233,
+    "timeWeek": 409,
+    "timeMonth": 424,
+    "timeYear": 370,
     "dailyMinutesDown": {}
   },
   {
@@ -43,16 +43,16 @@
     "icon": "https://www.titsrp.com/images/rust_94773.ico",
     "slug": "rust-weekly",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
-    "time": 291,
-    "timeDay": 230,
-    "timeWeek": 326,
-    "timeMonth": 301,
-    "timeYear": 291,
+    "uptimeYear": "99.93%",
+    "time": 290,
+    "timeDay": 205,
+    "timeWeek": 325,
+    "timeMonth": 298,
+    "timeYear": 290,
     "dailyMinutesDown": {
       "2021-09-27": 60
     }
@@ -69,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 117,
-    "timeDay": 110,
-    "timeWeek": 146,
-    "timeMonth": 127,
+    "timeDay": 98,
+    "timeWeek": 145,
+    "timeMonth": 126,
     "timeYear": 117,
     "dailyMinutesDown": {
       "2021-09-27": 59
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 171,
-    "timeDay": 292,
-    "timeWeek": 210,
-    "timeMonth": 194,
-    "timeYear": 171,
+    "time": 170,
+    "timeDay": 42,
+    "timeWeek": 212,
+    "timeMonth": 189,
+    "timeYear": 170,
     "dailyMinutesDown": {}
   },
   {
@@ -107,9 +107,9 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.93%",
     "time": 232,
-    "timeDay": 150,
-    "timeWeek": 211,
-    "timeMonth": 212,
+    "timeDay": 246,
+    "timeWeek": 198,
+    "timeMonth": 213,
     "timeYear": 232,
     "dailyMinutesDown": {
       "2021-10-13": 59
