@@ -42,10 +42,10 @@
     "url": "$WEEKLY_SERVER",
     "icon": "https://www.titsrp.com/images/rust_94773.ico",
     "slug": "rust-weekly",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 289,
@@ -54,6 +54,7 @@
     "timeMonth": 295,
     "timeYear": 289,
     "dailyMinutesDown": {
+      "2021-11-06": 1,
       "2021-09-27": 60
     }
   },
@@ -62,9 +63,9 @@
     "url": "$BIWEEKLY_SERVER",
     "icon": "https://www.titsrp.com/images/rust_94773.ico",
     "slug": "rust-bi-weekly",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
@@ -74,6 +75,7 @@
     "timeMonth": 125,
     "timeYear": 116,
     "dailyMinutesDown": {
+      "2021-11-06": 0,
       "2021-09-27": 59
     }
   },
