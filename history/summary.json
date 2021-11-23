@@ -24,11 +24,11 @@
     "url": "$TRP_SERVER",
     "icon": "https://www.titsrp.com/images/Gmod-small.ico",
     "slug": "tits-rp-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 366,
     "timeDay": 378,
@@ -36,7 +36,7 @@
     "timeMonth": 382,
     "timeYear": 366,
     "dailyMinutesDown": {
-      "2021-11-23": 6
+      "2021-11-23": 0
     }
   },
   {
