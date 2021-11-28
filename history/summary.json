@@ -25,18 +25,18 @@
     "icon": "https://www.titsrp.com/images/Gmod-small.ico",
     "slug": "tits-rp-server",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.94%",
+    "uptimeDay": "95.19%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.94%",
     "time": 365,
     "timeDay": 356,
     "timeWeek": 345,
     "timeMonth": 345,
     "timeYear": 365,
     "dailyMinutesDown": {
-      "2021-11-28": 0
+      "2021-11-28": 69
     }
   },
   {
