@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 698,
-    "timeDay": 752,
-    "timeWeek": 906,
-    "timeMonth": 840,
-    "timeYear": 698,
+    "time": 703,
+    "timeDay": 1315,
+    "timeWeek": 913,
+    "timeMonth": 859,
+    "timeYear": 703,
     "dailyMinutesDown": {
       "2021-10-05": 18
     }
@@ -24,18 +24,20 @@
     "url": "$TRP_SERVER",
     "icon": "https://www.titsrp.com/images/Gmod-small.ico",
     "slug": "tits-rp-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 365,
-    "timeDay": 384,
+    "timeDay": 356,
     "timeWeek": 345,
-    "timeMonth": 344,
+    "timeMonth": 345,
     "timeYear": 365,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-28": 0
+    }
   },
   {
     "name": "Rust Weekly",
@@ -49,9 +51,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
     "time": 287,
-    "timeDay": 261,
-    "timeWeek": 271,
-    "timeMonth": 273,
+    "timeDay": 306,
+    "timeWeek": 277,
+    "timeMonth": 275,
     "timeYear": 287,
     "dailyMinutesDown": {
       "2021-11-15": 17,
@@ -71,8 +73,8 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
     "time": 116,
-    "timeDay": 111,
-    "timeWeek": 117,
+    "timeDay": 123,
+    "timeWeek": 116,
     "timeMonth": 114,
     "timeYear": 116,
     "dailyMinutesDown": {
@@ -92,11 +94,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 181,
-    "timeDay": 262,
-    "timeWeek": 280,
-    "timeMonth": 226,
-    "timeYear": 181,
+    "time": 182,
+    "timeDay": 314,
+    "timeWeek": 285,
+    "timeMonth": 228,
+    "timeYear": 182,
     "dailyMinutesDown": {}
   },
   {
@@ -111,9 +113,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 223,
-    "timeDay": 188,
-    "timeWeek": 151,
-    "timeMonth": 188,
+    "timeDay": 181,
+    "timeWeek": 158,
+    "timeMonth": 189,
     "timeYear": 223,
     "dailyMinutesDown": {
       "2021-10-13": 59
