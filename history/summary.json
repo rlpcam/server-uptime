@@ -106,7 +106,7 @@
     "url": "$MEDIA",
     "icon": "https://www.titsrp.com/images/audio.svg",
     "slug": "boombox",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
     "uptimeDay": "94.78%",
     "uptimeWeek": "99.25%",
