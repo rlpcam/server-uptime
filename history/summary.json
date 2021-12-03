@@ -106,9 +106,9 @@
     "url": "$MEDIA",
     "icon": "https://www.titsrp.com/images/audio.svg",
     "slug": "boombox",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -118,6 +118,7 @@
     "timeMonth": 191,
     "timeYear": 223,
     "dailyMinutesDown": {
+      "2021-12-03": 0,
       "2021-10-13": 59
     }
   }
