@@ -44,9 +44,9 @@
     "url": "$WEEKLY_SERVER",
     "icon": "https://www.titsrp.com/images/rust_94773.ico",
     "slug": "rust-weekly",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
@@ -56,6 +56,7 @@
     "timeMonth": 289,
     "timeYear": 288,
     "dailyMinutesDown": {
+      "2021-12-19": 0,
       "2021-11-15": 17,
       "2021-11-06": 17,
       "2021-09-27": 60
