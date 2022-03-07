@@ -1,7 +1,7 @@
 url: $API_SERVER
-status: down
-code: 403
-responseTime: 22
-lastUpdated: 2022-03-07T01:11:21.912Z
+status: up
+code: 200
+responseTime: 21
+lastUpdated: 2022-03-07T02:17:46.177Z
 startTime: Sat Sep 04 2021 23:30:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
